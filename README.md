@@ -1,7 +1,4 @@
-# AnpiDukaan-react-redux
-
-
-# Open [https://apnidukaan0.herokuapp.com/](https://apnidukaan0.herokuapp.com/) to view it in your browser.
+# AnpiDukaan-react-redux Open [https://apnidukaan0.herokuapp.com/](https://apnidukaan0.herokuapp.com/) to view it in your browser.
 
 # Getting Started with Create React Redux App
 
